@@ -1,0 +1,9 @@
+streamlit — for the web interface.
+
+
+
+pandas — for handling tabular data, if your code uses it.
+
+
+
+sqlite3, datetime, and os — if used, are part of Python's standard library, so you don't need to list them.
